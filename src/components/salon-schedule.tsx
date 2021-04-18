@@ -38,7 +38,6 @@ const useStyles = makeStyles((_theme: Theme) => {
         footer: {
             flex: 0,
             display: "flex",
-            border: "1px solid lightgray",
             width: "100%",
             margin: "10px",
             padding: "20px",
