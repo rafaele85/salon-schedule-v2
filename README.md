@@ -25,7 +25,7 @@
 
 Результаты работы представлены на скриншотах:
 
-![Основной интерфейс](https://github.com/rafaele85/salon-schedule2/blob/master/screens/screenshot3.PNG?raw=true)
+![Основной интерфейс](https://github.com/rafaele85/salon-schedule-v2/blob/master/screens/screenshot3.PNG?raw=true)
 
-![Результирующий JSON](https://github.com/rafaele85/salon-schedule2/blob/master/screens/screenshot4.PNG?raw=true)
+![Результирующий JSON](https://github.com/rafaele85/salon-schedule-v2/blob/master/screens/screenshot4.PNG?raw=true)
 
